@@ -1,0 +1,28 @@
+{
+  "name": "toboolean",
+  "version": "1.0.0",
+  "description": "Convert any types variable to boolean.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "boolean",
+    "toboolean",
+    "to-boolean",
+    "convert",
+    "convertboolean",
+    "convert-boolean",
+    "converttoboolean",
+    "convert-toboolean",
+    "convertto-boolean",
+    "convert-to-boolean"
+  ],
+  "author": "Rawipon Tubtimtong (https://github.com/rawipon-t)",
+  "license": "MIT",
+  "homepage": "https://github.com/rawipon-t/toBoolean",
+  "repository": "rawipon-t/toBoolean",
+  "bugs": {
+    "url": "https://github.com/rawipon-t/toBoolean/issues"
+  }
+}
