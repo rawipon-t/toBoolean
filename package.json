@@ -4,7 +4,7 @@
   "description": "Convert any types variable to boolean.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test/*"
   },
   "keywords": [
     "boolean",
@@ -24,5 +24,11 @@
   "repository": "rawipon-t/toBoolean",
   "bugs": {
     "url": "https://github.com/rawipon-t/toBoolean/issues"
+  },
+  "dependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.3",
+    "mocha": "^6.1.4"
   }
 }
